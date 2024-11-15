@@ -30,7 +30,7 @@ const Contact = () => {
     {/* Mailing Address */}
     <div className="col-span-1">
       <div className="italic font-semibold text-lg sm:text-xl md:text-2xl">MAILING ADDRESS</div>
-      <div className="italic font-medium text-sm sm:text-base md:text-lg">Lorem ipsum dolor</div>
+      <div className="italic font-medium text-sm sm:text-base md:text-lg">House: 34 Rd No: 2, Dhaka 1229</div>
     </div>
 
     {/* Email */}
@@ -42,7 +42,7 @@ const Contact = () => {
     {/* Contact Number */}
     <div className="col-span-1">
       <div className="italic font-semibold text-lg sm:text-xl md:text-2xl">CONTACT NUMBER</div>
-      <div className="italic font-medium text-sm sm:text-base md:text-lg">01729011545</div>
+      <div className="italic font-medium text-sm sm:text-base md:text-lg">01842025387</div>
     </div>
   </div>
 </div>
